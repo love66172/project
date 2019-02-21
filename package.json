@@ -2,7 +2,7 @@
   "name": "iflying",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "keylley-w <15801509633@163.com>",
+  "author": "love66172 <1337618493@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -10,6 +10,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "swiper": "^4.4.6",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
